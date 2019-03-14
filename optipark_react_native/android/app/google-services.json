@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "887530230166",
+    "firebase_url": "https://optipark-5dfe8.firebaseio.com",
+    "project_id": "optipark-5dfe8",
+    "storage_bucket": "optipark-5dfe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887530230166:android:8c0965b660e9fac4",
+        "android_client_info": {
+          "package_name": "opti.park.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887530230166-eirvqagao612tc7ud4libve3sq6p6e49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQVJKZ6C8PD7pM3sTh6QMgkllsAGSVd_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

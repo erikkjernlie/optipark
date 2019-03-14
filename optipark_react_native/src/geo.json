@@ -1,0 +1,166 @@
+{
+    "type":"Features",
+    "geometry":[
+        {
+            "type":"entrance",
+            "properties": {
+                "floor":1
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417941, -119.847580]
+            }
+        },
+        {
+            "type":"corners",
+            "properties": {
+                "name":"L16",
+                "place":"UCSB"
+            },
+            "geometry":{
+                "type":"Polygon",
+                "coordinates":[
+                    [34.41793041232398,-119.84799482178471],
+                    [34.41793041232398,-119.8472401851269],
+                    [34.417896484989555,-119.847188287231],
+                    [34.417414125150856,-119.847188287231],
+                    [34.41732119311914,-119.84727667456366],
+                    [34.41732119311914,-119.84742326013486],
+                    [34.416993717517606,-119.84742326013486],
+                    [34.416993717517606,-119.84742768862827],
+                    [34.417035758376045,-119.84801939533111],
+                    [34.41793041232398,-119.84799482178471]                
+                ]
+            }
+        }
+    ],
+    "sensors":[
+        {
+            "type":"sensor",
+            "properties": {
+                "status":0,
+                "floor":1,
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417349, -119.847985]
+            }
+        },
+        {
+            "type":"sensor",
+            "properties": {
+                "status":0,
+                "floor":1
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417589, -119.847966]
+            }
+        },{
+            "type":"sensor",
+            "properties": {
+                "status":0,
+                "floor":1
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417932, -119.847963]
+            }
+        },{
+            "type":"sensor",
+            "properties": {
+                "status":0,
+                "floor":1
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417916, -119.847638]
+            }
+        },{
+            "type":"sensor",
+            "properties": {
+                "status":0,
+                "floor":1
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417888, -119.847272]
+            }
+        },{
+            "type":"sensor",
+            "properties": {
+                "status":0,
+                "floor":1
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417523, -119.847266]
+            }
+        },{
+            "type":"sensor",
+            "properties": {
+                "status":0,
+                "floor":1
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417280, -119.847464]
+            }
+        },{
+            "type":"sensor",
+            "properties": {
+                "status":0,
+                "floor":1
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417052, -119.847470]
+            }
+        },{
+            "type":"sensor",
+            "properties": {
+                "status":0,
+                "floor":1
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417034, -119.847684]
+            }
+        },{
+            "type":"sensor",
+            "properties": {
+                "status":0,
+                "floor":1
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417701, -119.847594]
+            }
+        },{
+            "type":"sensor",
+            "properties": {
+                "status":0,
+                "floor":1    
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[34.417428, -119.847607]
+            }
+        }
+    ],
+    "help_n odes":[
+        [34.41783097649417,-119.84761696468598],
+        [34.41783835201089,-119.84742559192131],
+        [34.4177073134,-119.84742559192131],
+        [34.4175762748,-119.84742559192131],
+        [34.41744523605418,-119.84742559192131],
+        [34.41744523605418,-119.84758465261297],
+        [34.4172921931, -119.84758465261297],
+        [34.417139150117634,-119.84758465261297],
+        [34.417139150117634,-119.84772465261297],
+        [34.4173207681,-119.84788587038241],
+        [34.4175023861,-119.84788587038241],
+        [34.4176840041,-119.84788587038241],
+        [34.417865622014695,-119.84788587038241]
+    ]
+}
