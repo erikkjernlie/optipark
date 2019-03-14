@@ -1,0 +1,9 @@
+node_modules
+src/firebaseConfig.js
+
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
